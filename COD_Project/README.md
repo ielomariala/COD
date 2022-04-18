@@ -28,6 +28,8 @@
 [Full dataset COD10k](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view)
 
 Please use the following link to download the dataset (Recommended):
+[Modified architecture dataset ZIP](https://drive.google.com/file/d/12QNmR6XJCaPqYtRCDLUwVSv46ugCZ1Uo/view?usp=sharing)
+
 [Modified architecture dataset](https://drive.google.com/drive/folders/1LNfSPiGdct8jk99HUiOpV4cFctGP5kdV?usp=sharing)
 
 ## Network Architecture
@@ -63,4 +65,9 @@ A [google colab notebook](./src/Notebooks/SINet_colab.ipynb) is provided to help
 
 Import the libraries needed, and go directly the last cells on the notebook to test this trained model.
 This model is the best one we could train, because we trained it for a long time (numerous epochs). 
+
+## Sample outputs
+![Output 1](./data/output.png)
+
+![Output 2](./data/output2.png)
 
